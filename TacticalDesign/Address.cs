@@ -1,4 +1,4 @@
-namespace IntroToDDDEmailCourse;
+namespace IntroToDDDEmailCourse.TacticalDesign;
 
 public class Address
 {
