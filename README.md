@@ -1,4 +1,4 @@
-# Intro to DDD - Email Course - Presented by NimblePros
+# Intro to DDD - Email Course - Presented by [NimblePros](https://nimblepros.com)
 
 This repository contains the code snippets used in our Intro to DDD email course.
 
